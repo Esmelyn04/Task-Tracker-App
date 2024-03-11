@@ -69,5 +69,6 @@ function init() {
 taskForm.addEventListener('submit', handleSubmission);
 
 
+
 // Call the init function to set up the initial state of the app
 init();
